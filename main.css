@@ -34,7 +34,7 @@ h3 {
 	height: auto;
 	padding: 25px;
 	color: white;
-	border: 2px solid slategray;
+	border: 2px solid #E93A22;
 	margin-top: 40px;
 	float: left;
 	margin-left: 50px;
@@ -51,7 +51,7 @@ h3 {
 	height: auto;
 	padding: 25px;
 	color: white;
-	border: 2px solid slategray;
+	border: 2px solid #E93A22;
 	margin-top: 40px;
 	float: left;
 	margin-left: 50px;
@@ -71,14 +71,14 @@ h3 {
 	height: auto;
 	padding: 25px;
 	color: white;
-	border: 2px double slategray;
+	border: 2px double #E93A22;
 	float: left;
 	margin: 20px;
 }
 
 #copyright {
 	padding-top: 25px;
-	color: slategray;
+	color: #E93A22;
 }
 
 #section-about, #section-discography, #section-equipment {
@@ -101,7 +101,7 @@ h3 {
 	height: auto;
 	padding: 20px;
 	margin: 0 auto 0 auto;
-	background-color: black;
+	background-color: rgb(51, 51, 51);
 	overflow: auto;
 	color: #E93A22;
 	border: 2px solid #E93A22;
